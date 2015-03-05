@@ -1,0 +1,391 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"js",
+				"js"
+			],
+			[
+				"t",
+				"tagline"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/salamandreconseils/Desktop/PMEBooster/SITE/Angle/css/style.css",
+			"settings":
+			{
+				"buffer_size": 225,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nEmmet:\n-----\n\n  Thank you for installing Emmet -- a toolkit that can greatly improve your workflow. Note that this plugin automatically downloads and installs PyV8 binary (see status bar message). \n  \n  ******************************\n  Please restart editor \n  to finish installation process \n  after PyV8 was downloaded.\n  ******************************\n  \n  Tab key handler\n  ==========================\n  \n  By default, Emmet allows you to expand abbreviations with Tab key in HTML, XML, HAML and CSS/SASS/LESS/Stylus documents. As a side effect, you can’t use some of your ST2 snippets.\n  \n  Please read https://github.com/sergeche/emmet-sublime#tab-key-handler about how Tab handler works and how to tweak its behavior to match your needs.\n  \n  Enter key\n  ==========================\n  \n  In HTML and XML documents, Emmet overrides Enter key to insert formatted line breaks between opening and closing tags. In some cases it will break character input (for example, in Japanese language).\n  \n  To disable Enter key handler, simply add the following option in your user's Preferences file:\n  \n  \"disable_formatted_linebreak\": true\n  \n  Actions shortcuts\n  ==========================\n  \n  Emmet has a number of actions with keyboard shortcuts that may override ones you're using commonly (for example, Ctrl-E or Ctrl-Down). Please read the project main page to get list of available actions and keyboard shortcuts and how to disable them:\n  https://github.com/sergeche/emmet-sublime\n  \n  Documentation and examples:\n  http://emmet.io\n  \n  ------------------------------\n  Follow me on Twitter: @emmetio\n  ------------------------------\n  \n  ",
+			"settings":
+			{
+				"buffer_size": 1694,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Users/salamandreconseils/Desktop/00SiteBootsrap/index01.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix",
+				"name": "h1+p"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n	<meta charset=\"UTF-8\">\n	<title>PME Booster</title>\n	<!-- Latest compiled and minified CSS -->\n	<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css\">\n	<!-- Optional theme -->\n	<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css\">\n	<!-- style du site PMEBooster -->\n	<link rel=\"stylesheet\" href=\"css/pmebooster.css\">\n	<!-- Latest compiled and minified JavaScript -->\n  	<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js\"></script>\n	<script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js\"></script>\n\n\n</head>\n\n<body>\n	<div class=\"container\">\n	<div class=\"navbar\">\n		<div class=\"navbar-inner\">\n			<div class=\"container\">\n				<a href=\"\" class=\"marque\"></a>\n				<ul class=\"nav\">\n					<li><a href=\"#\">Accueil</a></li>\n					<li><a href=\"#\">Services</a></li>\n					<li><a href=\"#\">Contacts</a></li>\n				</ul>\n			</div>\n		</div>\n	</div>\n\n		<div class=\"jumbotron\">\n			<h1>Hello there!</h1>\n			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad enim illo, vitae expedita quasi unde earum, vero doloremque voluptates deserunt voluptatibus consequuntur nulla harum nam molestias accusantium, pariatur totam maxime.</p>\n			<div><a href=\"\" class=\"btn-primary\">houch!</a></div>\n		</div>\n	</div>\n\n	.jumbotron>h1{Jumbotron 02!}>(<p><a href=\"\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, amet.</a></p>\n	<p><a href=\"\">Maxime possimus eos expedita, quas eligendi sunt laborum ut aliquid.</a></p>)					\n\n</body>\n	\n</html>\n\n\n\n\n\n\n",
+			"file": "/Users/salamandreconseils/Desktop/00SiteBootsrap/index02.html",
+			"file_size": 1410,
+			"file_write_time": 1425385291000000,
+			"settings":
+			{
+				"buffer_size": 1630,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/salamandreconseils/Desktop/00SiteBootsrap/css/pmebooster.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/salamandreconseils/Desktop/00SiteBootsrap/index03.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/salamandreconseils/Desktop/00SiteBootsrap/index03:html",
+		"/Users/salamandreconseils/Desktop/PMEBooster/SITE/Angle/css/bootstrap.css",
+		"/Users/salamandreconseils/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/salamandreconseils/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/salamandreconseils/Desktop/workflows/components/sass/_base.scss",
+		"/Users/salamandreconseils/Desktop/workflows/components/sass/_modules.scss",
+		"/Users/salamandreconseils/Desktop/workflows/components/sass/style.scss",
+		"/Users/salamandreconseils/Desktop/workflows/components/sass/_pixgrid.scss",
+		"/Users/salamandreconseils/Desktop/workflows/components/.gitignore",
+		"/Users/salamandreconseils/Desktop/workflows/README.md",
+		"/Users/salamandreconseils/Desktop/workflows/components/scripts/template.js",
+		"/Users/salamandreconseils/Desktop/workflows/builds/development/js/data.json",
+		"/Users/salamandreconseils/Desktop/workflows/components/scripts/pixgrid.js",
+		"/Users/salamandreconseils/Desktop/workflows/builds/development/css/style.scss",
+		"/Applications/Inkscape.app/Contents/Resources/bin/inkscape"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"export PATH=\"usr/bin/$PATH\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/salamandreconseils/Desktop/PMEBooster/SITE/Angle/css/style.css",
+					"settings":
+					{
+						"buffer_size": 225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								184
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 1694,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1694,
+								1694
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/salamandreconseils/Desktop/00SiteBootsrap/index01.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "h1+p",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/salamandreconseils/Desktop/00SiteBootsrap/index02.html",
+					"settings":
+					{
+						"buffer_size": 1630,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								692,
+								692
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/salamandreconseils/Desktop/00SiteBootsrap/css/pmebooster.css",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/salamandreconseils/Desktop/00SiteBootsrap/index03.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
